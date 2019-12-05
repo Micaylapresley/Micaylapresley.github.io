@@ -57,6 +57,8 @@ a {
 body {
   padding-top: 3.5rem;
 }
+#name {
+  font-size: 4em; color: teal
+}
 
-<h1 onclick="this.style.color='orange';">
 
